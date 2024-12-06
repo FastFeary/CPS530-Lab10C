@@ -15,6 +15,9 @@
         7. Then I had to link the vueproject to github
         8. Then I made an account at netlify and connected it to the git repo
 
+
+      
+        Difficulties
         1. I had errors and had to go back and update my node js
             a. I downloaded the executable
             b. Run “nvm install latest”
